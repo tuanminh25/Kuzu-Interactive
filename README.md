@@ -6,6 +6,7 @@ Kuzu Interactive is a web application that integrates with Kuzu DB using JavaScr
 - **Kuzu DB Integration** – Query and interact with Kuzu DB.
 - **React Frontend** – Modern UI for seamless data representation.
 - **Real-time Updates** – Dynamic data visualization.
+- **Kuzu WebAssembly Version** – This project delves into the asynchronous implementation of KuzuDB in WebAssembly, optimizing performance and enhancing browser-based database interactions.
 
 ## Installation
 
@@ -32,3 +33,4 @@ Kuzu Interactive is a web application that integrates with Kuzu DB using JavaScr
 
 ## License
 Licensed under the MIT License.
+https://docs.kuzudb.com/client-apis/wasm/
